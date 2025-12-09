@@ -24,6 +24,7 @@ def organizar_arquivos():
         ".txt": "Notas_Texto",
         ".csv": "Planilhas_Excel",
         ".xlsx": "Planilhas_Excel",
+         ".pptx": "PowerPoints",
         ".zip": "Arquivos_Zip",
         ".rar": "Arquivos_Zip",
         ".exe": "Instaladores"
